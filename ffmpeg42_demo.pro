@@ -21,7 +21,8 @@ SOURCES += \
 
 HEADERS += \
     asda.h \
-    mainwindow.h
+    mainwindow.h \
+    test_commit2.h
 
 FORMS += \
     mainwindow.ui
